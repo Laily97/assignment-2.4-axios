@@ -1,0 +1,23 @@
+{
+  "name": "assignment-2.4-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laily97/assignment-2.4-axios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laily97/assignment-2.4-axios/issues"
+  },
+  "homepage": "https://github.com/Laily97/assignment-2.4-axios#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
